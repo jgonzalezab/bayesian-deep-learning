@@ -19,4 +19,10 @@ En la Figura 3 se muestra el intervalo de confianza generado con bayesian deep l
 *Intervalo de confianza LSTM*
 
 ### Conclusiones
-                                                                                                                                                                                              
+Con el deep learning hemos sido capaces de generar unas muy buenas predicciones para el fenómeno de El Niño. Con el bayesian deep learning hemos conseguido cuantificar la incertidumbre de estos modelos de una forma sencilla, computacionalmente barata y sustentada bajo una fuerte teoría matemática.
+
+En futuros trabajos se pretende estudiar la aplicación del bayesian deep learning en otros campos del conocimiento
+
+(Para más detalles acerca del trabajo realizado recomendamos consultar la *correspondiente memoria*)
+
+
